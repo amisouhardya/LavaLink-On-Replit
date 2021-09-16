@@ -10,7 +10,7 @@ Fork this github repository. then create a new replit project.
 
 or [click me](https://replit.com/@ThnksCJ/LavaLink-On-Replit) Go Straight to the project.
 
-## Your Replit Lavalink Connect Should Loom Like This:
+# Your Replit Lavalink Connect Should Loom Like This:
 
   Lavalink: {
     id: "Main",
@@ -21,7 +21,7 @@ or [click me](https://replit.com/@ThnksCJ/LavaLink-On-Replit) Go Straight to the
   },
 
 
-### Initialisations
+## Initialisations
 ```bash
 chmod +x start.sh
 ```
@@ -40,7 +40,7 @@ The default port to connect is `443` and the default password is `maybeiwasborin
 
 You can’t change the lavalink port! it will default to 443 due to how replit work.
 
-##UptimeRobot
+## UptimeRobot
 
 Lastly To Keep Your Project online 24/7 make a account at [UpTimeRobot](https://uptimerobot.com/) And Then Got To Your Dashboard.
 Add A New Moniter And put in these configurations.
