@@ -40,6 +40,14 @@ The default port to connect is `443` and the default password is `maybeiwasborin
 
 You can’t change the lavalink port! it will default to 443 due to how replit work.
 
+##UptimeRobot
+
+Lastly To Keep Your Project online 24/7 make a account at [UpTimeRobot](https://uptimerobot.com/) And Then Got To Your Dashboard.
+Add A New Moniter And put in these configurations.
+![uptime](https://i.imgur.com/bDMokwS.png)
+
+Obviously Change The Https To Your Replit Link
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
