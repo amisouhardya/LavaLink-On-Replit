@@ -12,13 +12,13 @@ or [click me](https://replit.com/@ThnksCJ/LavaLink-On-Replit) Go Straight to the
 
 ## Your Replit Lavalink Connect Should Loom Like This:
 
-  Lavalink: {
+ ```Lavalink: {
     id: "Main",
     host: "lavalink-on-replit.thnkscj.repl.co",
     port: 477,
     pass: "WHATEVERYOUWANT", 
     secure: true // Set this to true if you're self-hosting lavalink on replit.
-  },
+  },```
 
 
 ## Initialisations
