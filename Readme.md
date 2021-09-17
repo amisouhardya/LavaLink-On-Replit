@@ -10,7 +10,7 @@ Fork this github repository. then create a new replit project.
 
 or [click me](https://replit.com/@ThnksCJ/LavaLink-On-Replit) Go Straight to the project.
 
-# Your Replit Lavalink Connect Should Loom Like This:
+## Your Replit Lavalink Connect Should Loom Like This:
 
   Lavalink: {
     id: "Main",
