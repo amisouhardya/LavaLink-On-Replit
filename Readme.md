@@ -10,13 +10,13 @@ Fork this github repository. then create a new replit project.
 
 or [click me](https://replit.com/@ThnksCJ/LavaLink-On-Replit) Go Straight to the project.
 
-## Your Replit Lavalink Connect Should Loom Like This:
+## Your Replit Lavalink Connect Should Look Like This:
 ```
     Lavalink: {
     id: "Main",
     host: "lavalink-on-replit.thnkscj.repl.co",
     port: 477,
-    pass: "WHATEVERYOUWANT", 
+    pass: "maybeiwasboring", 
     secure: true // Set this to true if you're self-hosting lavalink on replit.
   },
   ```
